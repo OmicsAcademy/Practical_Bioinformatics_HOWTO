@@ -1,0 +1,2 @@
+perl complete/smRNA_across_gene.pl 24nt_siRNA_cluster.txt gene_coordinates.tab complete/smRNA_cluster_across_gene.tab
+
