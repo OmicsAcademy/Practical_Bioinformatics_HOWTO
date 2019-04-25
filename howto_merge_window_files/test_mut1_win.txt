@@ -1,0 +1,4 @@
+#chr	stt	end	wt_c	wt_t	mut1_c	mut1_t
+chr1	1	100	10	0	0	20
+chr1	51	150	20	90	21	10
+chr1	101	200	20	21	9	1
